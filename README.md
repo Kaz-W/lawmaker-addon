@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Kaz-W/test-repo/main/test_dir/github_banner.png?token=AGFCNU7S6MQE5Q6XCGZI4CLAZOT7Q" alt="LoopBack4 logo" width="100%"/>
+<img src="https://user-images.githubusercontent.com/25831123/122624252-2d163000-d097-11eb-8b6a-e41adcf2197f.png" alt="banner" width="100%"/>
 
 # "Who is...?": A browser extension to inform internet users about the people representing them
 ## What is "Who is...?"?
