@@ -1,0 +1,114 @@
+.image-wrapper-lawmaker{
+    line-height: 1;
+    box-sizing: initial;
+}
+.highlight-lawmaker-info:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.highlight-lawmaker-info {
+    color: black;
+    background-color: yellow;
+    pointer-events: all;
+}
+
+.lawmaker-arrow {
+    pointer-events: none;
+    width: 0;
+    height: 0;
+    position: absolute;
+    left: -20px;
+    top: 60px;
+    border-top: 25px solid transparent;
+    border-bottom: 25px solid transparent;
+    border-right:25px solid black;
+    z-index: 99999
+}
+
+.lawmaker-behind-arrow{
+    border-top: 22.2px solid transparent;
+    border-bottom: 22.2px solid transparent;
+    border-right:22.2px solid white;
+    z-index: 99998;
+
+
+}
+
+.addon-title{
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    left: 90px;
+    padding-left: 0;
+    margin-left:0;
+    top: 0;
+    padding-top: 0;
+    margin-top: 2px;
+}
+
+.addon-firstName{
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 33px;
+    color: white;
+    position:absolute;
+    left: 90px;
+    padding-left: 0;
+    margin-left:0;
+    top: 20px;
+    padding-top: 0;
+    margin-top: 2px;
+}
+
+
+.addon-surname{
+    font-family: Helvetica, sans-serif ;
+    font-weight: bold;
+    font-size: 33px;
+    color: white;
+    position:absolute;
+    left: 90px;
+    top: 50px;
+}
+
+.image-wrapper-lawmaker img:hover {
+    opacity: 0.8;
+}
+.party-colour{
+    position:absolute;
+    width: 20px;
+    height: 20px;
+    right: 5px;
+    top: 5px;
+}
+
+.idescription{
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    left: 90px;
+    top: 64px;
+}
+
+.lawmaker-votes-with-party {
+    font-family: helvetica;
+    font-size: 15px;
+    color: white;
+    position:absolute;
+    left: 5px;
+    top: 95px;
+}
+
+
+.lawmaker-votes-with-science {
+    font-family: helvetica;
+    font-size: 15px;
+    color: white;
+    position:absolute;
+    left: 5px;
+    top: 120px;
+}
