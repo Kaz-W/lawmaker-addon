@@ -7,7 +7,7 @@ If you would like to contribute to this, please see the "Contributing" README fi
 If you want to install the addon, keep scrolling! 
 
 ## Countries currently covered:
-- Scotland (Profiles recorded for all Members of Scottish Parliament) <a href = "https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fstrongloop%2Floopback%2Ftree%2Fmaster%2Fdocs/"> (download)</a>
+- Scotland (Profiles recorded for all Members of Scottish Parliament) <a href = "https://download-directory.github.io/?url=https://github.com/Kaz-W/lawmaker-addon/tree/main/Scotland"> (download)</a>
 
 ## How to install
 This browser extensions currently supports Chrome and Firefox. 
