@@ -10,7 +10,7 @@ If you want to install the addon, keep scrolling!
 - Scotland (Profiles recorded for all Members of Scottish Parliament) <a href = "https://download-directory.github.io/?url=https://github.com/Kaz-W/lawmaker-addon/tree/main/Scotland"> (download)</a>
 
 ## Interested in extending the countries covered by "Who is...?"?
-Read the README on contributing <a href = "https://github.com/Kaz-W/lawmaker-addon/tree/main/contributing">here</a>. 
+Read the README guide on contributing <a href = "https://github.com/Kaz-W/lawmaker-addon/tree/main/contributing">here</a>. 
 
 ## How to install
 This browser extensions currently supports Chrome and Firefox. 
