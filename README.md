@@ -27,7 +27,7 @@ and click *'This Firefox'* (in the top right, underneath *'Settings'*), then cli
        - Navigate to the directory the extracted folder was saved in and select to open *manifest.json*  
        - Done!  
       
-   - In Chrome:  
+   - Chrome:  
       - type: ```chrome://extensions/``` in search bar  
       - Turn on *'Developer Mode'* (button in top right)  
       - Click *'Load unpacked'* (Top left)  
