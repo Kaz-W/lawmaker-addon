@@ -14,9 +14,9 @@ You will need to gather the necessary information about the lawmakers of the are
  - The lawmaker's Wikipedia page
  - The lawmaker's info page on the relevant government site
 
-As well as this, a JSON dictionary of the party colours can be included to provide a small coloured icon for each lawmaker. 
-The images are located in ```[country]/imgs/thumbnails```
-The lawmaker information is located in ```[country]/info/lawmakers.json```
+As well as this, a JSON dictionary of the party colours can be included to provide a small coloured icon for each lawmaker. <br />
+The images are located in ```[country]/imgs/thumbnails```<br />
+The lawmaker information is located in ```[country]/info/lawmakers.json```<br />
 The party colours information is located in ```[country]/info/parties.json```
 
 A walk through of doing this for the MPs of the UK parliament can also be found in this directory. (get_mp_information.py).
